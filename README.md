@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Meus links
+## Moveit
+
+Projeto que cria uma rotina de exercícios, em um determinado tempo.
+
+## Links
 
 [Github](https://github.com/ederpbj/moveit)
 
@@ -15,3 +19,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 >> Criar projeto com template typescript
 
 `yarn create react-app moveit --template=typescript`
+
+`yarn start` >> rodar o projeto
