@@ -13,4 +13,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `comandos cmd`
 
 >> Criar projeto com template typescript
+
 `yarn create react-app moveit --template=typescript`
