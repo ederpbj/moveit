@@ -22,11 +22,15 @@ Projeto que cria uma rotina de exercícios, em um determinado tempo.
 
 [Aula 2 - Desvendando o Next.js](https://www.youtube.com/watch?v=7ceWRavb6Ac&feature=emb_title&ab_channel=DiegoFernandes)
 
+[Contonuação - moveit-next](https://github.com/ederpbj/moveit-next)
+
 ### `comandos cmd`
 
 `yarn create react-app moveit --template=typescript` >> Criar projeto com template typescript
 
 `yarn start` >> rodar o projeto
+
+`yarn create next-app moveit-next` >> Criar um projeto next e migrar o antigo
 
 ### Obs
 
@@ -51,3 +55,5 @@ Projeto que cria uma rotina de exercícios, em um determinado tempo.
     * Embarca: SPA, SSR e SSG
 
     * Usado em 90% das aplicações
+
+    * [Fluxograma - whimsical](https://whimsical.com/aula-2-EyA57agYrRWExXEKRUd1QK)
