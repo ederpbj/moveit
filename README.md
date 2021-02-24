@@ -33,3 +33,21 @@ Projeto que cria uma rotina de exercícios, em um determinado tempo.
 * Next foi originado para indexação para motores de busca, tipo google
     
     ** Hoje serve para mais funções
+
+* SPA, modo tradicional de iniciar react
+
+    * Aplicações que dificilmente mudam conteúdo pode ser usado Gatsby
+
+* SSR (Server Site Rendering)
+
+    * Usado pelo next para otimizar a renderização de página
+
+* SSG (Server Site Gereration), não precisa ir no DB buscar informações
+
+    * Atualiza em memória a página web
+
+* Next, pode ser usado para melhor performace 
+
+    * Embarca: SPA, SSR e SSG
+
+    * Usado em 90% das aplicações
