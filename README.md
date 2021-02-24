@@ -31,4 +31,5 @@ Projeto que cria uma rotina de exercícios, em um determinado tempo.
 ### Obs
 
 * Next foi originado para indexação para motores de busca, tipo google
+    
     ** Hoje serve para mais funções
