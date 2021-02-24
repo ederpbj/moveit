@@ -18,11 +18,17 @@ Projeto que cria uma rotina de exercícios, em um determinado tempo.
 
 [Fontes google](https://fonts.google.com/)
 
-[Aula 1](https://www.youtube.com/watch?v=XDFlV76UJuA&feature=emb_title&ab_channel=DiegoFernandes)
+[Aula 1 - Rumo ao próximo nível](https://www.youtube.com/watch?v=XDFlV76UJuA&feature=emb_title&ab_channel=DiegoFernandes)
 
+[Aula 2 - Desvendando o Next.js](https://www.youtube.com/watch?v=7ceWRavb6Ac&feature=emb_title&ab_channel=DiegoFernandes)
 
 ### `comandos cmd`
 
 `yarn create react-app moveit --template=typescript` >> Criar projeto com template typescript
 
 `yarn start` >> rodar o projeto
+
+### Obs
+
+* Next foi originado para indexação para motores de busca, tipo google
+    ** Hoje serve para mais funções
