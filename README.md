@@ -22,7 +22,7 @@ Projeto que cria uma rotina de exercícios, em um determinado tempo.
 
 [Aula 2 - Desvendando o Next.js](https://www.youtube.com/watch?v=7ceWRavb6Ac&feature=emb_title&ab_channel=DiegoFernandes)
 
-[Contonuação - moveit-next](https://github.com/ederpbj/moveit-next)
+[Continuação - moveit-next](https://github.com/ederpbj/moveit-next)
 
 ### `comandos cmd`
 
